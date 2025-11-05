@@ -32,3 +32,7 @@
 - Started working on the python code implementation on the robot
 - Trying to take the perception model  as a python notebook, converting it to a python file and running it in the robot, including downloading datasets on the robot.
 - Unfortunately as I was updating the OS to match the dependencies in the python file, using sudo apt update and sudo apt upgrade and that ended up crashing the entire OS.
+
+### Week 7 (Date: Oct 5 - 11  ) -> Reading Week
+
+
